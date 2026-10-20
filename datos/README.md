@@ -7,9 +7,9 @@ Esta carpeta contiene los conjuntos de datos utilizados en el proyecto de análi
 
 | Archivo | Descripción |
 |---|---|
-| `clientes.csv` | Información de los clientes, como identificador, nombre, correo electrónico, ciudad y fecha de registro |
+| `clientes_limpio.csv` | Información de los clientes, como identificador, nombre, correo electrónico, ciudad y fecha de registro |
 | `productos.csv` | Catálogo de productos, categorías y precios |
-| `pedidos.csv` | Pedidos registrados y su estado |
+| `pedidos_Limpio.csv` | Pedidos registrados y su estado |
 | `detalle_pedidos.csv` | Productos incluidos en cada pedido, cantidades y precios unitarios |
 
 ## Limpieza de datos
